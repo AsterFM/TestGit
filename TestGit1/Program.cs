@@ -6,7 +6,7 @@ namespace TestGit1
     {
         static void Main(string[] args)
         {
-            int a, b, resAdd, resMin;
+            double a, b, resAdd, resMin, resSqr;
             Console.WriteLine("Input first number: ");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Input second number: ");
@@ -15,6 +15,8 @@ namespace TestGit1
             Console.WriteLine("Result: " + resAdd);
             resMin = a - b;
             Console.WriteLine("Result: " + resMin);
+            resSqr = Math.Sqrt(a + b);
+            Console.WriteLine("Result: " + resSqr);
         }
     }
 }
