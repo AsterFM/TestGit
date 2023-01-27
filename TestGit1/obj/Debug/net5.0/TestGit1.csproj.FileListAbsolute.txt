@@ -1,0 +1,16 @@
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.exe
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.deps.json
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.runtimeconfig.json
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.runtimeconfig.dev.json
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.dll
+C:\С# Console Project\TestGit1\TestGit1\bin\Debug\net5.0\TestGit1.pdb
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.csproj.AssemblyReference.cache
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.AssemblyInfoInputs.cache
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.AssemblyInfo.cs
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.csproj.CoreCompileInputs.cache
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.dll
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\refint\TestGit1.dll
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.pdb
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\TestGit1.genruntimeconfig.cache
+C:\С# Console Project\TestGit1\TestGit1\obj\Debug\net5.0\ref\TestGit1.dll
